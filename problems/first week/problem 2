@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/japanese-cities-name/submissions/database/313948769
+
+select CITY.NAME FROM CITY where CITY.COUNTRYCODE='JPN' ;
