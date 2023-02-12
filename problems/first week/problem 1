@@ -1,6 +1,5 @@
-Revising the Select Query I 
 https://www.hackerrank.com/challenges/revising-the-select-query/submissions/database/313946766
 
 select CITY.ID,CITY.NAME,CITY.COUNTRYCODE,CITY.DISTRICT,CITY.POPULATION  
 FROM CITY 
-where CITY.POPULATION>100000 and CITY.COUNTRYCODE='USA' ;
+where CITY.POPULATION>100000 and CITY.COUNTRYCODE='USA' ; 
