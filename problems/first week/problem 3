@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/select-all-sql/submissions/database/313948881
+
+select CITY.ID,CITY.NAME,CITY.COUNTRYCODE,CITY.DISTRICT,CITY.POPULATION FROM CITY ;
