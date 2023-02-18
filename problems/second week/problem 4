@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/submissions/database/315001659
+
+select count(Population) from CITY where Population >100000 ;
