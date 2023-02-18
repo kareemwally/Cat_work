@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/weather-observation-station-1/submissions/database/314958090
+
+select CITY , STATE FROM STATION;
