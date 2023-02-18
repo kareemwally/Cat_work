@@ -1,0 +1,3 @@
+https://www.hackerrank.com/challenges/revising-aggregations-sum/submissions/database/315001359
+
+select sum(POPULATION) from CITY where District='california' ;
