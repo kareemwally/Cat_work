@@ -1,0 +1,5 @@
+https://www.hackerrank.com/challenges/more-than-75-marks/submissions/database/317297076
+
+select Name from STUDENTS
+where Marks >75 
+order by RIGHT(name,3) asc,ID;
