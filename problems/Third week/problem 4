@@ -1,1 +1,5 @@
+https://www.hackerrank.com/challenges/asian-population/submissions/code/318351149
 
+select sum(CITY.population) 
+from city , country
+where city.countrycode=country.code and COUNTRY.CONTINENT='asia'
