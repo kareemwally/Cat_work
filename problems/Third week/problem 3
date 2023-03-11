@@ -1,1 +1,4 @@
+update salary
+set sex= if(sex='f','m','f');
 
+https://leetcode.com/problems/swap-salary/submissions/913335588/
